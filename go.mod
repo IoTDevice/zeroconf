@@ -1,4 +1,4 @@
-module github.com/grandcat/zeroconf
+module github.com/iotdevice/zeroconf
 
 go 1.23
 
